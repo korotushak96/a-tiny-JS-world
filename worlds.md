@@ -46,5 +46,5 @@
  2019-01-10 |    4    |     72     | [mfialko](https://github.com/mfialko/a-tiny-JS-world)
  2019-01-24 |    4    |     45     | [mxmgny](https://github.com/mxmgny/a-tiny-JS-world)
  2019-01-29 |    4    |     50     | [Roka20012](https://roka20012.github.io/a-tiny-JS-world/)
- 
+ 2019-02-01 |    5    |     50     | [korotushak96](https://github.com/korotushak96/a-tiny-JS-world)
 
